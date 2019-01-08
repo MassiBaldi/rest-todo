@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.nav {
+  margin: 15px;
+}
+.wrapper {
+  padding: 5px 30px;
+}
+li {
+  cursor: pointer;
+  margin: 10px;
+}
+#modifica, #btn {
+  height: 27px;
+}
+#inserisci, #btn{
+  padding: 5px;
+  border-radius: 5px;
+}
+#inserisci {
+  margin: 0 15px;
+}
+#btn {
+  color: white;
+  background: grey;
+}
